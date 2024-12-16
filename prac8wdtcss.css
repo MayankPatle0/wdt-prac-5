@@ -1,0 +1,25 @@
+.i1{
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    text-align: center;
+}
+.c1 {
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+    
+}
+body{
+    background-color:#ffff9c;
+}
+#i3{
+    font-size: 20px;
+    text-align: center;
+    border: solid black 2px;
+    padding: 5px;
+}
+#i4{
+    text-align: center;
+}

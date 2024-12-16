@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+    height: 60vh;
+}
+.box{
+    width: 45%;
+    height: 300px;
+    border: 2px solid black;
+}
+#i1{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+$scolor: red;
+.box1{
+    color: $scolor;
+    margin: 10px;
+}
+.box2{
+    background-color: $scolor;
+    margin: 10px;
+    color: black;
+}
+.box3{
+    border: 2px dotted $scolor;
+    margin: 10px;
+    font-size: 25px;
+}
+.box4{
+    margin: 10px;
+    font-size: 25px;
+}
+ul,ol{
+    color: $scolor;
+}
+body{
+    background-color: rgba(252, 170, 123, 0.933);
+}
