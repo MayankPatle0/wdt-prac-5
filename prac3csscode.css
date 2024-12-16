@@ -1,0 +1,39 @@
+.c01{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#h02{
+    size: 15px;
+}
+
+#h03{
+    background-color: rgb(83, 80, 80);
+    border: 5px solid black;
+}
+
+#h04{
+    background-color: grey;
+    text-align: center;
+    align-items: center;
+    border: 5px solid black;
+    background-color: rgb(83, 80, 80);
+}
+
+#h05{
+    text-align: center;
+}
+
+#h06{
+    align-items: center;
+    text-align: center;
+    background-color: rgba(206, 149, 42, 0.788);
+}
+
+#h07{
+    text-align: center;
+    align-items: center;
+    border: 5px solid black;
+    background-color: rgb(83, 80, 80);
+}
