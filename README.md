@@ -1,1 +1,1 @@
-# wdt-prac-5
+# wdt-pracs
